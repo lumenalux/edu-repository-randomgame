@@ -3,7 +3,7 @@ Mini project. Made for practice in the design of the git repository.
 This is a program that runs from the console. 
 You can choose 3 games in it. 
 Namely coin toss, dice toss and russian roulette.
-## Instalation
+## Installation
 Open the directory where you want to put the project. Open a terminal on it
 and put the command below:
 ```bash
@@ -38,7 +38,7 @@ python main.py russian_roulette --param 3
 >In this case, Russian roulette was launched 
 > with __*three*__ bullets in the store instead of __*one*__
 
->__Note__: _The number of bullets can be between one and six_
+>__Note__: _The number of bullets can be between **one** and **six**_
 
 ## Licence
 Licensed under the 
