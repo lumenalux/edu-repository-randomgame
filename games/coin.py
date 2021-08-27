@@ -38,9 +38,7 @@ def _coin_toss() -> str:
 
 
 def coin() -> None:
-    """The main function of game. Needed to restart the game
-    :rtype: object
-    """
+    """The main function of game. Needed to restart the game"""
 
     keep_playing: bool = True
     while keep_playing:
